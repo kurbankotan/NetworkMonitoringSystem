@@ -18,7 +18,7 @@ from keras.utils import to_categorical
 
 print("Deep Learning Classifier")
 # Reads the train and test data
-train = pd.read_csv('1Million.csv', header=None)
+#train = pd.read_csv('1Million.csv', header=None)
 #train = pd.read_csv('500K.csv', header=None)
 #train = pd.read_csv('./125K.csv', header=None)
 #)train = train.iloc[:,0:42]
